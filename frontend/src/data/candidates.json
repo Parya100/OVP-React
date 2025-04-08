@@ -1,0 +1,11 @@
+[{
+        "id": 1,
+        "name": "Alice Johnson",
+        "party": "Party A"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "party": "Party B"
+    }
+]
